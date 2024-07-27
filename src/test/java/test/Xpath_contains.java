@@ -32,6 +32,5 @@ public class Xpath_contains {
         assertTrue(xpath.isDisplayed());
 
         getDriver().quit();
-
     }
 }
